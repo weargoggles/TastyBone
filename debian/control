@@ -1,0 +1,31 @@
+Source: tastybone
+Maintainer: Brandon R. Stoner <monokrome@limpidtech.com>
+Section: python
+Priority: optional
+Build-Depends: python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-tastybone
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Expose TastyPie to your client. Nicely.
+ TastyBone
+ =========
+ .
+ Expose TastyPie to your client. Nicely.
+ .
+ Dependencies
+ ------------
+ .
+ Before including this script, make sure that you have included the following
+ scripts in your document. Without them, this thing is going to misbehave like
+ you wouldn't believe!
+ .
+ - jQuery
+ - underscore.js
+ - backbone.js
+ .
+ Note that I did not introduce any of these dependencies (aside from the obvious
+ backbone.js dependency). These are all dependencies required by any site using
+ backbone.js to grab data over AJAX - which is exactly what we need for
+ TastyBone.

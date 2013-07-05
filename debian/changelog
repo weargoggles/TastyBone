@@ -1,0 +1,11 @@
+tastybone (0.0.4-1dbplc1) precise; urgency=low
+
+  * remove some model url determination code incompatible with current tastypie
+
+ -- Pete Smith <psmith@editure.co.uk>  Wed, 20 Mar 2013 16:35:51 +0000
+
+tastybone (0.0.4-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Brandon R. Stoner <monokrome@limpidtech.com>  Wed, 20 Mar 2013 10:55:10 +0000

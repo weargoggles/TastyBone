@@ -1,0 +1,6 @@
+cca33ee0a13cb35c05a4fdfa66c59779  usr/share/doc/python-tastybone/changelog.Debian.gz
+d41706f24cbb076c224ad8833585532a  usr/share/pyshared/tastybone-0.0.4.egg-info
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/tastybone/__init__.py
+dae76f2b2839fa49b415d7570cc69723  usr/share/pyshared/tastybone/api.py
+758c7c61cb55e234c7ca3ff9e29d141d  usr/share/pyshared/tastybone/static/scripts/tastybone.js
+d41d8cd98f00b204e9800998ecf8427e  usr/share/pyshared/tastybone/static/scripts/tastybone.min.js
