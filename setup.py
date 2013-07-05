@@ -24,7 +24,7 @@ for filename in metafiles:
 
 metadata = {
     'name': 'tastybone',
-    'version': '0.0.4',
+    'version': '0.0.4-weargoggles1',
     'description': 'Expose TastyPie to your client. Nicely.',
     'long_description': metafiles['README.md'] + '\n\n' + metafiles['CHANGES.md'],
     'classifiers': metafiles['CLASSIFIERS.txt'],
